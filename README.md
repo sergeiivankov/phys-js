@@ -1,3 +1,3 @@
 # phys-js
 
-Simple physics engine writen in pure JavaScript without outer dependencies. Library created for small pet.
+Simple physics engine writen in pure JavaScript without outer dependencies. Library created for small pet project.
